@@ -3,4 +3,4 @@
 > Automating the boring stuff, one Bash script at a time.
 
 ### To Do
-- [] add more networking tools
+- [ ] add more networking tools
