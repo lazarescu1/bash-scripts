@@ -4,4 +4,3 @@
 
 ### To Do
 - [ ] add more networking tools
-- [ ] complete myfetch.sh
