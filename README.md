@@ -4,3 +4,4 @@
 
 ### To Do
 - [ ] add more networking tools
+- [ ] write the myfetch.sh scripts (something like _neofetch_)
