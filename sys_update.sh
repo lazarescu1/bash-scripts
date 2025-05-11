@@ -1,4 +1,5 @@
 #!/bin/bash
+# For Debian
 
 # Colors
 RED='\033[0;30m'
